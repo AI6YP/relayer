@@ -1,4 +1,4 @@
 # relayer
 realy controller
 
-![](wiring.svg)
+![](LQFP32.svg)
